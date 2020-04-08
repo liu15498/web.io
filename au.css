@@ -15,8 +15,8 @@ body{
 }
 #i20{
     position: relative;
-  
-    background-size:cover;
+     
+    background-size:100% 200%;
     background-repeat:no-repeat;
 
 }
